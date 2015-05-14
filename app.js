@@ -10,6 +10,7 @@ var partials = require('express-partials');
 
 var routes = require('./routes/index');
 //var users = require('./routes/users');
+var autores= require('./routes/authors');
 
 var app = express();
 
