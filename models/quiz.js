@@ -14,4 +14,4 @@ module.exports = function(sequelize, DataTypes) {
     }
   );
 }
-/////////Aqui no habia nada comentado
+/////////Aqui no habia nada comentadog
