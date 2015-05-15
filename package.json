@@ -10,7 +10,7 @@
     "npm": "1.4.28"
   },
   "devDependencies": {
-    "sqlite3": "^3.0.4"
+    "sqlite3": "~3.0.4"
   },
   "dependencies": {
     "express": "~4.9.0",
