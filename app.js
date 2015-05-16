@@ -10,6 +10,7 @@ var partials = require('express-partials');
 var routes = require('./routes/index');
 
 var app = express();
+var autores= require('./routes/authors');
 
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
